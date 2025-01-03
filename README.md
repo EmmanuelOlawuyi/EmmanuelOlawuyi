@@ -1,6 +1,6 @@
 # 👨‍💻 Emmanuel Olawuyi
 **Cyber Security Analyst | Incident Response | Threat Hunting | Cloud Security | Endpoint Security**  
-📧 [ea.olawuyi@gmail.com](mailto:ea.olawuyi@gmail.com) | 📱 +44 7946 088055 | 🌍 London, UK  
+📧 [ea.olawuyi@gmail.com](mailto:ea.olawuyi@gmail.com)  | 🌍 London, UK  
 🔗 [LinkedIn Profile](#) | 🔗 [Personal Website](#)  
 
 ---
@@ -23,29 +23,6 @@ I thrive in high-pressure environments and am deeply committed to staying ahead 
 - **Vulnerability Scanning**: Nessus, Qualys, Falcon Spotlight  
 - **Frameworks**: GDPR, NIST, PCI-DSS, ISO27001, OWASP
 
----
-
-## 💼 Experience
-
-### 🔒 **SOC Analyst** | Royal Mail Group | Jul 2023 - Present  
-- Lead the integration of **Threat Intelligence** to improve detection capabilities and investigations.  
-- Spearhead the fine-tuning of SIEM alerts, reducing false positives and improving workflow efficiency.  
-- Provide guidance to L1 and L2 analysts, enhancing team collaboration and knowledge sharing.
-
-### ⚙️ **Security Engineer** | TEKsystem | Sep 2023 - Nov 2023 (Weekend)  
-- Led the migration of **50,000 endpoints** to **Microsoft Defender for Endpoints (MDE)** and **Microsoft Purview (DLP)**.  
-- Deployed MDE across multiple server versions, resolving deployment failures through advanced troubleshooting.  
-- Collaborated with a team of engineers to adhere to best practices for system onboarding.
-
-### 🛡️ **SOC Analyst** | NBC | Oct 2019 - Jun 2023  
-- Monitored and responded to security incidents, managing access entitlements in a 35k user environment.  
-- Led the investigation of **endpoint compromises**, including host triage and malware analysis.  
-- Developed use cases to improve **threat detection** and **incident response**.
-
-### 🏦 **SOC Analyst** | Citibank | Feb 2016 - Sep 2019  
-- Managed **real-time incident response** and **log analysis** using Splunk and Nessus.  
-- Investigated and mitigated **phishing attacks** and **security incidents** across multiple platforms.  
-- Delivered actionable security insights and supported incident management processes.
 
 ---
 

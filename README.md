@@ -13,14 +13,15 @@ I thrive in high-pressure environments and am deeply committed to staying ahead 
 ---
 
 ## 🛠️ Key Skills & Tools
-- **🔐 SIEM**: ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk) ![Sentinel](https://img.shields.io/badge/Azure_Sentinel-5e1e25?style=for-the-badge&logo=microsoft-azure) ![LogRhythm](https://img.shields.io/badge/LogRhythm-0069A0?style=for-the-badge&logo=logrhythm)  
-- **💻 EDR**: ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-1e1e1e?style=for-the-badge&logo=crowdstrike) ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-5c5c5c?style=for-the-badge&logo=microsoft)  
-- **☁️ Cloud Security**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)  
-- **🛡️ Endpoint Security**: ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-1e1e1e?style=for-the-badge&logo=crowdstrike)  
-- **🔑 PAM**: ![CyberArk](https://img.shields.io/badge/CyberArk-003F7C?style=for-the-badge&logo=cyberark)  
-- **📧 Email Security**: ![Proofpoint](https://img.shields.io/badge/Proofpoint-0070A6?style=for-the-badge&logo=proofpoint)  
-- **🛠️ Ticketing Systems**: ![ServiceNow](https://img.shields.io/badge/ServiceNow-0085D0?style=for-the-badge&logo=servicenow)  
-- **🔍 Vulnerability Scanning**: ![Nessus](https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable)  
+- **SIEM**: Splunk, Sentinel, Alien Vault, LogRhythm  
+- **EDR**: CrowdStrike, Microsoft Defender for Endpoint, Carbon Black, Cisco Secure Endpoint  
+- **Cloud Security**: AWS (CloudTrail, GuardDuty, IAM), Azure (Defender for Cloud)  
+- **Endpoint Security**: Microsoft Defender, CrowdStrike  
+- **PAM**: CyberArk, Sailpoint  
+- **Email Security**: Proofpoint, Cisco ESA, Mimecast  
+- **Ticketing Systems**: ServiceNow, Jira  
+- **Vulnerability Scanning**: Nessus, Qualys, Falcon Spotlight  
+- **Frameworks**: GDPR, NIST, PCI-DSS, ISO27001, OWASP
 
 ---
 
